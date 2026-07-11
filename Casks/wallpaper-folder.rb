@@ -2,8 +2,8 @@
 #                https://docs.brew.sh/Adding-Software-to-Homebrew#cask-stanzas
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 cask "wallpaper-folder" do
-  version "1.0.2"
-  sha256 "c767a893248964726be5d661c786d6b989bfd376322d7bb44589f610ed9e2e46"
+  version "1.1.0"
+  sha256 "91f251782618b2427ab533fb817084d73730e1ab20c08c51569458e8ac29d63a"
 
   url "https://github.com/bartreardon/WallpaperFolderManager/releases/download/#{version}/wallpaper-folder-#{version}.pkg"
   name "Wallpaper Folder Manager"
